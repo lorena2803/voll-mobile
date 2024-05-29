@@ -110,6 +110,7 @@ export default function Cadastro({ navigation }: any) {
               />
             )
           })
+
         }
       </Box>
       <Box>
